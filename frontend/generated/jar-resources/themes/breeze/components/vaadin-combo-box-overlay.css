@@ -1,0 +1,4 @@
+[part="overlay"] {
+    --_vaadin-combo-box-items-container-border-width: 0;
+    box-shadow: var(--breeze-overlay-shadow);
+}

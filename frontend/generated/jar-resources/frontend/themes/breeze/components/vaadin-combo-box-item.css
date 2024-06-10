@@ -1,0 +1,9 @@
+@import url('common-item-styles.css');
+
+:host {
+    border-radius: 0;
+}
+
+:host([tabindex])::before {
+    color: var(--lumo-primary-contrast-color);
+}
