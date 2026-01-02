@@ -19,3 +19,4 @@ target/
 Thumbs.db
 .DS_Store
 /frontend/
+/out.txt
