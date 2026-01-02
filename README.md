@@ -1,5 +1,13 @@
 # Playground-Spring 🧪
 
+[![Build Status](https://github.com/mmilk23/playground-spring/actions/workflows/maven.yml/badge.svg)](https://github.com/mmilk23/playground-spring/actions)
+[![codecov](https://codecov.io/gh/mmilk23/playground-spring/branch/main/graph/badge.svg)](https://codecov.io/gh/mmilk23/playground-spring)
+[![Coverage Status](https://coveralls.io/repos/github/mmilk23/playground-spring/badge.svg)](https://coveralls.io/github/mmilk23/playground-spring)
+![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
+[![Known Vulnerabilities](https://snyk.io/test/github/mmilk23/playground-spring/badge.svg)](https://snyk.io/test/github/mmilk23/playground-spring)
+[![Last Updated](https://img.shields.io/github/commit-activity/w/mmilk23/playground-spring)](https://github.com/mmilk23/playground-spring/commits/main)
+
+
 Playground-Spring is a small study/playground application built with **Spring Boot**, **Spring Data JPA**, **Spring Security**, and **Vaadin** (UI).
 
 > **Notice:** This project was created as an architecture playground. Do not use it in production without a proper review (security, dependencies, configuration, logging/monitoring, etc.).
